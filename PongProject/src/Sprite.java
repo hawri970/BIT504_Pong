@@ -48,11 +48,11 @@ public class Sprite {
 		}
 	}
 	
-	public void setxVelocity(int xVelocity) {
+	public void setXVelocity(int xVelocity) {
 		this.xVelocity = xVelocity;
 	}
 	
-	public void setyVelocity(int yVelocity) {
+	public void setYVelocity(int yVelocity) {
 		this.yVelocity = yVelocity;
 	}
 	
